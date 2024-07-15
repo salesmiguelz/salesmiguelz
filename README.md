@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🙋 Oi! Meu nome é Miguel Sales e amo dev web 💜.
