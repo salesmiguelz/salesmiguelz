@@ -13,14 +13,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&?logo=react](https://img.shields.io/badge/-React-333333?style=flat&logo=react))
 ![Node.JS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 
 **Banco de dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![PostgreSQL]([https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql))
 ![MySQl](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
 
